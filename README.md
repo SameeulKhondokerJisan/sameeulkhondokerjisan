@@ -1,124 +1,178 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D9FF&center=true&width=600&lines=Building+Intelligent+Systems+with+Data;From+Analysis+→+Science+→+AI+Engineering;Turning+Real+Problems+into+ML+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D9FF&center=true&width=700&lines=Data+Science+Student+%7C+ML+Researcher;Building+Production+Systems+%2B+Publishing+Research;Data+Analysis+→+Data+Science+→+AI+Engineering" />
 
 </div>
 
 ---
 
-## 👋 Hey! I'm Sameeul
+## 👋 About Me
 
-A **data scientist & emerging ML engineer** obsessed with building systems that actually work—not just models that fit in notebooks.
+**Sameeul Khondoker Jisan** — Data Science-focused Software Engineer building the bridge from analytics to AI.
 
-Right now: **Data Science Intern @ Codio AI Solution** | Building production ML systems | Researching AI robustness  
-Background: **BSc Software Engineering** (Data Science major) @ Daffodil International University | **IBM Certified** | **IELTS 7.0**
+I'm obsessed with **data that tells stories, models that work in production, and research that matters.** Currently a Data Science Intern @ **Codio AI Solution**, researching ML robustness, and publishing papers on predictive modeling and data quality.
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-mrkhondokar.prof@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrkhondokar.prof@gmail.com)
+**📊 Data Scientist | 🔬 ML Researcher | 🤖 AI Builder**
+
+[![Email](https://img.shields.io/badge/-mrkhondokar.prof@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrkhondokar.prof@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-mrkhondokar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrkhondokar504/)
-[![Portfolio](https://img.shields.io/badge/-My%20Work-00D9FF?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://jisan23051365.github.io/my-portfolio/)
-[![GitHub](https://img.shields.io/badge/-@mrkhondoker-333?style=flat-square&logo=github&logoColor=white)](https://github.com/mrkhondoker)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00D9FF?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://jisan23051365.github.io/my-portfolio/)
+[![Resume V2 (Research)](https://img.shields.io/badge/-Resume%20%28Research%29-333?style=flat-square&logo=github&logoColor=white)](#)
+[![Resume V1 (Analytics)](https://img.shields.io/badge/-Resume%20%28Analytics%29-555?style=flat-square&logo=github&logoColor=white)](#)
 
 </div>
 
 ---
 
-## My Approach
+## My Philosophy
 
 > **Data over assumptions** • **Systems over scripts** • **Honesty over hype** • **Progress over perfection**
 
+I don't inflate credentials. I know SQL, Python, ML pipelines, and data architecture deeply. Everything else I'm learning or learning well.
+
 ---
 
-## What I'm Doing Right Now
+## Current Work
 
 ```
-🔬 Codio AI Solution
+🔬 Codio AI Solution (May 2026–)
    └─ Building production ML pipelines & intelligent systems
-   └─ Deploying models at scale
-   └─ Researching robustness & failure modes
+   └─ Applying statistical analysis to real-world datasets
+   └─ Researching ML robustness & failure modes
 
 📚 Research (In Progress)
-   └─ AI-Based Carbon Footprint Prediction
+   ├─ AI-Based Carbon Footprint Prediction
+   │  └─ Random Forest, XGBoost, MLP Regressor
+   │  └─ Behavioral & energy-consumption datasets
+   │  └─ SHAP-based Explainable AI (XAI) analysis
+   │
    └─ Effect of Incomplete Data on ML Performance
-   
-🎓 Learning
-   └─ LLMs & Generative AI (RAG, agents, fine-tuning)
-   └─ Production ML systems (monitoring, debugging, scaling)
+      └─ Quantifying accuracy degradation
+      └─ Missing data at 20%, 50%, 100% levels
+      └─ Statistical benchmarking across models
+
+🎓 Background
+   ├─ BSc Software Engineering (Data Science major)
+   ├─ Daffodil International University (Jan 2023–)
+   ├─ CGPA: 3.55/4.00
+   ├─ IBM Certified (Data Analyst + Data Scientist)
+   └─ IELTS 7.0 (Academic)
 ```
 
 ---
 
-## The Journey: 📊 → 🤖 → ✨
+## Your Progression: 📊 → 🤖 → ✨
 
-Not a skill list. A **progression of understanding**:
+Not a skill list. A **progression of capability and understanding.**
 
 ### 📊 **Stage 1: Data Analyst** — The Foundation
-**Timeline:** May 2024 – Present | **Mastery Level:** ✅ Solid
+**Timeline:** May 2024 – Present | **Mastery:** ✅ Solid
 
-Before you can model anything, you need to **understand the data**. This stage is about asking the right questions:
+Before modeling anything, understand the data. This stage shaped how I think about evidence.
 
-**What I learned:**
-- Extract insights with **SQL** (complex queries, optimization)
-- Wrangle data with **Python & Pandas** (cleaning, reshaping, EDA)
-- Visualize findings in **Power BI** (dashboards that tell stories)
-- Think in **statistics** (distributions, correlations, significance)
+**What I built:**
+- Extract insights from raw data using **SQL** (complex queries, optimization, window functions)
+- Wrangle chaos with **Pandas & NumPy** (cleaning, reshaping, EDA)
+- Communicate findings in **Power BI & Tableau** (dashboards that drive decisions)
+- Think in **statistics** (distributions, correlations, hypothesis testing)
 
 **Why this matters:**
-Most engineers skip this and build garbage models on garbage data. You didn't. You built the habit of questioning assumptions and validating with evidence.
+Most ML engineers skip this and build garbage models on garbage data. You can't be good at ML without understanding data fundamentally. Every model I've trained since owes something to this foundation.
 
-**Credentials:**
+**Credential:**
 - 🏆 IBM Data Analyst Professional (Coursera)
-- 📊 IELTS 7.0 (proof of English fluency for international roles)
 
 <details>
-<summary><b>→ What this really taught me</b></summary>
+<summary><b>→ What this taught me</b></summary>
 
 **The analyst mindset:**
-1. Never trust data at face value. Explore it.
-2. Your viz is only as good as your question.
-3. 80% of a data project is cleaning. Expect it.
-4. Talk in numbers. Hunches are for coffee breaks.
+1. Never trust data at face value—explore it ruthlessly.
+2. Your visualization is only as good as your question.
+3. 80% of any data project is cleaning. Budget for it.
+4. Talk in numbers. Hunches are brainstorm fuel, not conclusions.
 
-You can't be a good ML engineer without this foundation. Every model I've built since owes something to these habits.
+This foundation is non-negotiable. Every feature engineering decision I make later traces back here.
 </details>
 
 ---
 
-### 🤖 **Stage 2: Data Scientist** — The Builder
+### 🤖 **Stage 2: Data Scientist** — The Builder (Current)
 **Timeline:** Apr 2026 – Present | **Status:** 🚀 Active
 
-You're here. Moving from *understanding data* to *solving problems with models*.
+Moving from *understanding data* to *solving problems with models and publishing research.*
 
 **Current work:**
-- 🔬 **Codio AI Solution** — Production ML systems & intelligent applications
-- 📚 **Research Papers** — 2 in progress on ML robustness (carbon prediction, incomplete data effects)
-- 💼 **Prior internship:** SaiKet Systems (completed Apr–May 2026)
+- 🔬 **Codio AI Solution** — Production ML pipelines, statistical analysis, BI research
+- 📚 **2 Research Papers** (in progress on ML robustness)
+- 💼 **Prior:** SaiKet Systems (Apr–May 2026, completed)
 
 **What I'm building:**
-- End-to-end ML pipelines (data → features → model → inference)
-- Production APIs (Flask, Docker, REST services)
-- Models that handle real-world chaos (missing data, imbalance, drift)
-- Systems you can monitor & debug
+- **End-to-end ML pipelines:** Data preprocessing → feature engineering → model training → inference
+- **Production systems:** Flask APIs, Docker containerization, REST services, Git workflows
+- **Models that handle reality:** Missing data, class imbalance, concept drift, out-of-distribution samples
+- **Research:** Statistical testing, ablation studies, explainability analysis (SHAP), cross-validation strategies
+- **Deployment:** Scalable inference, monitoring, debugging, performance tracking
 
-**Core skills:**
-- **Modeling:** Scikit-learn, XGBoost, TensorFlow, Random Forest
-- **Pipelines:** Feature engineering, hyperparameter tuning, validation strategies
-- **Production:** Flask APIs, Docker containerization, CI/CD
-- **Research:** Statistical testing, ablation studies, paper writing
+**Core technical stack:**
 
-**Projects that matter:**
+| Category | Tools |
+|----------|-------|
+| **Modeling** | Scikit-learn, XGBoost, CatBoost, Random Forest, Logistic Regression, KNN, MLP, TensorFlow |
+| **Data Wrangling** | Pandas, NumPy, SQL (PostgreSQL, MySQL) |
+| **Evaluation** | Cross-validation, SHAP, confusion matrices, classification reports, regression metrics |
+| **Visualization** | Matplotlib, Seaborn, Plotly, Power BI, Tableau |
+| **Production** | Flask, Docker, REST APIs, Git, VS Code, Jupyter |
+| **Databases** | PostgreSQL, MySQL, Supabase |
 
-| Project | Tech Stack | Impact |
-|---------|-----------|--------|
-| **Heart Failure Prediction** | Logistic Regression + Scikit-learn | 84% test accuracy on 12 clinical features |
-| **Student Performance** | CatBoost + hyperparameter sweep | Full pipeline, Dockerized, reproducible |
-| **Movie Recommendation** | Content-based + collaborative filtering | Flask API, real TMDB data, tested |
-| **Finzy Finance Dashboard** | Next.js + Gemini AI + Supabase | Real-time AI categorization, live feature |
+**Projects shipped:**
+
+| Project | Stack | What It Does | Impact |
+|---------|-------|-------------|--------|
+| **Finzy** — AI Finance Dashboard | Next.js, PostgreSQL, Supabase, Gemini AI, Docker | Automated receipt OCR + intelligent expense categorization + analytics | Real-time financial insights, AI-driven budget recommendations |
+| **Heart Failure Prediction** | Scikit-learn, Pandas, Matplotlib | Logistic Regression on 12 clinical biomarkers | 84% classification accuracy, comprehensive EDA, confusion matrix analysis |
+| **Student Performance** | CatBoost, Scikit-learn, Flask, Docker | End-to-end predictive analytics pipeline | Identified key academic drivers, Dockerized REST API, reproducible workflows |
+| **Movie Recommendation** | Flask, Scikit-learn, NumPy, SciPy, TMDB API | Hybrid engine (content-based + collaborative filtering) | Live TMDB data integration, TF-IDF, cosine similarity, full-stack deployment |
+| **Core Banking System** | Spring Boot, MySQL, REST API | Enterprise-level fintech backend | Secure transaction processing, Hibernate ORM, production-ready |
+
+**Work experience:**
+
+- **Codio AI Solution** (May 2026–) — Developing production ML pipelines, applying statistical analysis to real-world datasets, supporting BI research decisions
+- **SaiKet Systems** (Apr–May 2026) — Processed 50K+ records via automated Pandas/NumPy pipelines (~40% time reduction); deployed 3 ML models via REST API (~30% BI accuracy improvement)
+- **GoEdu** (Feb 2025–Feb 2026) — Produced 50+ educational videos (10K+ learners); applied data-informed content strategy (25% engagement increase)
+- **CDC-DIU** (Mar 2025–May 2026) — Organized job fairs & career development events; coordinated professional workshops
+- **Golden Harvest InfoTech** (Jan 2022–Dec 2022) — Managed 100K+ records at 99.8% accuracy; optimized data verification workflows (~20% efficiency gain)
 
 **Research in progress:**
-- 🌍 **Carbon Footprint Prediction** — Can we predict individual carbon impact from behavior? Testing Random Forest, XGBoost, MLP.
-- 📉 **Incomplete Data Effects** — How much accuracy loss at 20% missing? 50%? Building the degradation curve.
+
+<details>
+<summary><b>→ AI-Based Carbon Footprint Prediction</b></summary>
+
+**Problem:** Can we predict individual carbon footprints from behavioral and energy-consumption data?
+
+**Approach:**
+- Ensemble models: Random Forest, XGBoost, MLP Regressor
+- Systematic preprocessing, feature engineering, cross-validation
+- SHAP-based Explainable AI (XAI) to identify influential predictors
+- Statistical performance benchmarking across configurations
+
+**Key insight:** This isn't just ML—it's using data science to understand and potentially reduce environmental impact.
+</details>
+
+<details>
+<summary><b>→ Effect of Incomplete Data on ML Performance</b></summary>
+
+**Problem:** How much does accuracy degrade when we have missing data? At what threshold do models break?
+
+**Approach:**
+- Logistic Regression, Decision Trees, KNN on clean vs. missing data
+- Quantify accuracy loss at 20%, 50%, 100% missingness levels
+- Build the degradation curve
+- Compare imputation strategies
+
+**Key insight:** Understanding data quality limits is as important as optimizing features.
+</details>
 
 **Credential:**
 - 🏆 IBM Data Science Professional (Coursera)
@@ -127,49 +181,47 @@ You're here. Moving from *understanding data* to *solving problems with models*.
 <summary><b>→ What this stage is really about</b></summary>
 
 **The jump from scientist to engineer:**
-- Models don't ship themselves. Code does.
-- Accuracy on test set ≠ accuracy in production.
+- Notebooks are drafts. Code in production is what counts.
+- Test set accuracy ≠ production accuracy.
 - You need to understand failure modes, not just celebrate success metrics.
-- "It works on my machine" is a starting point, not victory.
+- Shipping a working system > polishing a perfect model forever.
 
-**What I'm actually learning:**
+**Skills being drilled:**
 1. Building reproducible, maintainable pipelines
-2. Handling real chaos (class imbalance, concept drift, outliers)
+2. Handling edge cases (imbalance, drift, OOD data)
 3. Communicating what your model *doesn't* know
-4. Writing code people can actually use and extend
+4. Writing code others can maintain and extend
 
-**The hard truth:** Most engineers get stuck here. They can train models but can't ship them. That's the focus of this stage.
+**The hard truth:** Most ML engineers get stuck here. They can train models but can't ship systems. That's the focus now.
 </details>
 
 ---
 
-### ✨ **Stage 3: AI/ML Engineer** — The Visionary
-**Timeline:** 2026 → Future | **Status:** 🎯 Building toward it
+### ✨ **Stage 3: AI/ML Engineer** — The Visionary (Target)
+**Timeline:** 2026 → 2028+ | **Status:** 🎯 Building toward it
 
 The final form. Where data science meets system engineering meets research.
 
 **The vision:**
-- **Generative AI:** LLMs, RAG systems, agentic workflows, fine-tuning
+- **Generative AI:** LLMs, RAG systems, agentic workflows, fine-tuning, prompt engineering
 - **Full-stack ML:** Everything from data ingestion → training → inference → monitoring → feedback loops
-- **Innovation:** Research that matters + products that scale
-- **Ownership:** Not "I built a model." But "I shipped a system that works."
+- **Research + Product:** Innovation that matters, systems that scale
+- **Ownership:** Not "I trained a model." But "I shipped an AI system that solves a real problem."
 
-**Next milestones (concrete):**
-- 📝 Publish 2 research papers (2026)
-- 🤖 Ship 1–2 LLM-powered production apps (2027)
-- 🎓 MSc AI/ML degree (target entry 2027)
-- 🔬 Lead or contribute to impactful ML research
-- 🌐 Open-source contributions to ML community
+**Next concrete steps (2027):**
+- 📝 Publish 2 research papers (carbon prediction, incomplete data)
+- 🤖 Ship 1–2 LLM-powered production applications
+- 🎓 MSc in AI/ML (target entry 2027)
+- 🔬 Lead or contribute significantly to ML research project
+- 🌐 Open-source ML contributions
 
-**Skills to master:**
-- Transformers & attention mechanisms
-- RAG, embeddings, vector databases
-- Fine-tuning & prompt engineering
-- Production LLM deployments
+**Skills to master (2026–2027):**
+- Transformer architectures & attention mechanisms
+- RAG (Retrieval-Augmented Generation) & embeddings
+- Vector databases (Pinecone, Weaviate, ChromaDB)
+- Fine-tuning large language models
+- Production LLM deployments & monitoring
 - ML systems design at scale
-
-**Credential target:**
-- 🎓 MSc in AI/ML (target 2027–2028)
 
 <details>
 <summary><b>→ The bigger picture</b></summary>
@@ -177,91 +229,117 @@ The final form. Where data science meets system engineering meets research.
 You're not chasing buzzwords. You're building **systems people trust**:
 
 1. **Models that fail gracefully** — Not overconfident predictions
-2. **Transparent decision-making** — Explainability matters
+2. **Transparent decision-making** — Explainability (SHAP, LIME, attention visualization)
 3. **Rigor + innovation** — Classical ML foundations + modern LLM capabilities
-4. **Full ownership** — From problem definition to user feedback
+4. **Full ownership** — Problem definition → deployment → user feedback → iteration
 
-**Finzy** is your prototype for this. Not "just a model" but an intelligent system. That's the bar.
+**Finzy** is the prototype: not "just a model" but an intelligent system. That's the bar for everything going forward.
 
-Your goal: In 2 years, people ask you to **solve hard ML problems**, not "train a model." That's the transition.
+**In 2 years, the goal:** People ask you to **solve hard ML problems**, not "train a model." That's the transition.
 </details>
 
 ---
 
-## Tech Stack by Stage
+## Full Technical Skills
 
-| **Analyst** | **Scientist** | **Engineer (Target)** |
-|---|---|---|
-| SQL, Python, Pandas | Scikit-learn, XGBoost | LangChain, Hugging Face |
-| Power BI, Excel | TensorFlow, NumPy | LLMs (Gemini, GPT, etc.) |
-| Matplotlib, Seaborn | Flask, REST APIs | Vector DBs, RAG |
-| Git, Jupyter | Docker, CI/CD | Production systems, monitoring |
+**Data Science & Analytics:**
+- Data analysis, EDA, feature engineering, data cleaning, data preprocessing
+- SQL (complex queries, optimization, window functions)
+- Pandas, NumPy, statistical modeling
+- Predictive modeling, regression, classification
 
----
+**Machine Learning & AI:**
+- Scikit-learn, XGBoost, CatBoost, Random Forest
+- Logistic Regression, Decision Trees, KNN, MLP
+- TensorFlow, neural networks
+- NLP, Large Language Models (LLMs), Generative AI, Prompt Engineering
+- SHAP-based Explainable AI (XAI), model interpretability
 
-## Impact by Numbers
+**Visualization & BI:**
+- Power BI, Tableau
+- Matplotlib, Seaborn, Plotly
+- Dashboard design, KPI monitoring, business intelligence
 
-```
-📦 6+ Production Projects      📚 2 Research Papers (in progress)    💼 5 Internships    🏆 3 Credentials
-```
+**Engineering & Deployment:**
+- Python, SQL, R, Java, C/C++, JavaScript
+- Flask, Spring Boot, REST APIs
+- Docker, containerization
+- Git/GitHub, version control
+- Next.js, full-stack web development
+- Google Gemini API integration
 
-<details>
-<summary><b>Breakdown</b></summary>
-
-**Production projects:** Heart Failure, Student Performance, Movie Recommendation, Finzy Finance, Core Banking, + 2 custom builds  
-**Research papers:** Carbon Footprint Prediction (submitted), Incomplete Data Effects (peer review)  
-**Work experience:** GoEdu, CDC-DIU, Golden Harvest InfoTech, SaiKet Systems, Codio AI Solution  
-**Credentials:** IBM Data Analyst, IBM Data Science Professional, IELTS 7.0
-</details>
-
----
-
-## How I Think
-
-| Principle | What It Means |
-|-----------|--------------|
-| **Data over assumptions** | Every claim needs evidence. Hunches are useful for generating hypotheses, not conclusions. |
-| **Systems over scripts** | Jupyter notebooks are drafts. Code in production needs to be maintainable, tested, monitored. |
-| **Honesty over inflation** | I know SQL, Python, and ML deeply. I don't claim "expert" in tools I use once a month. |
-| **Progress over perfection** | Shipping an 80% solution is better than polishing a 100% solution forever. Learn from real users. |
+**Databases & Tools:**
+- PostgreSQL, MySQL, Supabase
+- Jupyter Notebook, Google Colab
+- VS Code, PyCharm
+- Google Cloud
 
 ---
 
-## Current Roadmap
+## Education
 
-**Right now (2026):**
-- ✅ Build Codio AI Solution projects to production quality
-- ✅ Complete & publish 2 research papers
-- 🔄 Deep dive into LLMs & generative AI
-- 🔄 Enhance portfolio with interactive demos
+**B.Sc. in Software Engineering** — Major: Data Science  
+*Daffodil International University* (Jan 2023–)  
+**CGPA:** 3.55 / 4.00  
+**Relevant Coursework:** Machine Learning, Data Mining, Statistics, Database Systems, Algorithm Design, Software Engineering
 
-**Next (2027):**
-- 📝 MSc AI/ML applications
-- 🤖 Ship LLM-powered application (Finzy v2)
-- 📚 Lead a research project
-- 🌟 First open-source ML contribution
+**Higher Secondary School Certificate (HSC)** — Science  
+*Daffodil International College* (Jul 2019–Dec 2021)  
+**GPA:** 4.33 / 5.00
 
-**Vision (2028+):**
-- Lead ML engineering at tech company or research lab
-- Publish innovative AI research
-- Mentor next generation of ML engineers
-- Build systems that actually solve real problems
+**Secondary School Certificate (SSC)** — Science  
+*Agargaon Adarsha High School* (Jan 2017–Feb 2019)  
+**GPA:** 3.89 / 5.00
 
 ---
 
-## Let's Build Something Together
+## Certifications & Language
 
-I'm looking for:
-- **Collaborations** on ML research or production projects
-- **Internships** in data science, ML engineering, or AI
-- **Mentorship** from experienced ML/AI engineers
-- **Feedback** on my work (always open to honest critique)
+- 🏆 **IBM Data Analyst Professional Certificate** — Coursera
+- 🏆 **IBM Data Science Professional Certificate** — Coursera
+- 🌍 **IELTS Academic:** Band 7.0
+  - Listening: 7.5 | Reading: 7.0 | Writing: 7.0 | Speaking: 6.5
+
+---
+
+## Research Interests
+
+Based on current work and future directions:
+
+- **Machine Learning & Predictive Modelling** — Ensemble methods, neural networks, statistical learning
+- **Explainable AI (XAI) & Model Interpretability** — SHAP, LIME, attention visualization
+- **Data Quality & Missing Data in ML Systems** — Robustness, degradation curves, imputation
+- **Environmental AI & Sustainability Analytics** — Carbon footprint, energy efficiency, behavioral prediction
+- **Natural Language Processing** — Text analysis, sentiment, LLMs
+- **AI-Powered Intelligent Systems** — End-to-end ML products
+- **Business Analytics** — Data-driven decision making
+- **Data Visualization & Dashboarding** — Communicating insights
+- **Business Intelligence** — BI tools, reporting, KPIs
+
+---
+
+## Recognition
+
+- **DIU Job Utsob 2024 & 2025** — Recognized for outstanding contributions in event logistics and career development
+- **DIU CSE Fest 2025** — Presented innovative software solutions in competitive showcase
+- **GoEdu Campus Ambassador Programme** — Awarded Top Campus Ambassador for leadership and community engagement
+- **National Robotics Championship 2025** — Competed at national level, demonstrating teamwork and innovation
+
+---
+
+## Connect With Me
+
+Open to:
+- 🤝 **Collaborations** on ML research or production projects
+- 💼 **Internships** in data science, ML engineering, AI research
+- 👨‍🏫 **Mentorship** from experienced ML/AI engineers
+- 📊 **Feedback** on my work (always open to honest critique)
 
 <div align="center">
 
-📧 **[mrkhondokar.prof@gmail.com](mailto:mrkhondokar.prof@gmail.com)** | 
-💼 **[LinkedIn](https://www.linkedin.com/in/mrkhondokar504/)** | 
-🌐 **[Portfolio](https://jisan23051365.github.io/my-portfolio/)** | 
+📧 **[mrkhondokar.prof@gmail.com](mailto:mrkhondokar.prof@gmail.com)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/mrkhondokar504/)**  
+🌐 **[Portfolio](https://jisan23051365.github.io/my-portfolio/)**  
 💻 **[GitHub](https://github.com/mrkhondoker)**
 
 </div>
@@ -272,6 +350,7 @@ I'm looking for:
 
 ### ⚡ ANALYSE • BUILD • LEARN • GROW ⚡
 
-**Building the future of AI, one system at a time.**
+**Building intelligent systems that solve real problems.**  
+*Research-driven. Production-focused. Always learning.*
 
 </div>
