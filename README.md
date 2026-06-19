@@ -14,13 +14,12 @@ I'm obsessed with **data that tells stories, models that work in production, and
 
 <div align="center">
 
-**📊 Data Scientist | 🔬 ML Researcher | 🤖 AI Builder**
-
-[![Email](https://img.shields.io/badge/-mrkhondokar.prof@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrkhondokar.prof@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-mrkhondokar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrkhondokar504/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00D9FF?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://jisan23051365.github.io/my-portfolio/)
-[![Resume V2 (Research)](https://img.shields.io/badge/-Resume%20%28Research%29-333?style=flat-square&logo=github&logoColor=white)](#)
-[![Resume V1 (Analytics)](https://img.shields.io/badge/-Resume%20%28Analytics%29-555?style=flat-square&logo=github&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrkhondokar.prof@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrkhondokar504/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logo=globe&logoColor=black)](https://jisan23051365.github.io/my-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/mrkhondoker)
+[![Research Resume](https://img.shields.io/badge/Research_Resume-6C5CE7?style=flat-square&logo=datadog&logoColor=white)](#)
+[![Analytics Resume](https://img.shields.io/badge/Analytics_Resume-FF6B6B?style=flat-square&logo=datadog&logoColor=white)](#)
 
 </div>
 
@@ -327,22 +326,40 @@ Based on current work and future directions:
 
 ---
 
-## Connect With Me
+## 🚀 Let's Connect
 
-Open to:
-- 🤝 **Collaborations** on ML research or production projects
-- 💼 **Internships** in data science, ML engineering, AI research
-- 👨‍🏫 **Mentorship** from experienced ML/AI engineers
-- 📊 **Feedback** on my work (always open to honest critique)
+I'm open to **collaborations, research partnerships, internships, and mentorship opportunities.**
+
+### Direct Contact
 
 <div align="center">
 
-📧 **[mrkhondokar.prof@gmail.com](mailto:mrkhondokar.prof@gmail.com)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/mrkhondokar504/)**  
-🌐 **[Portfolio](https://jisan23051365.github.io/my-portfolio/)**  
-💻 **[GitHub](https://github.com/mrkhondoker)**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrkhondokar.prof@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrkhondokar504/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=globe&logoColor=black)](https://jisan23051365.github.io/my-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrkhondoker)
 
 </div>
+
+### Resume
+
+<div align="center">
+
+[![Research Resume](https://img.shields.io/badge/📄_Research_Resume-6C5CE7?style=for-the-badge)](https://github.com/SameeulKhondokerJisan)
+[![Analytics Resume](https://img.shields.io/badge/📊_Analytics_Resume-FF6B6B?style=for-the-badge)](https://github.com/SameeulKhondokerJisan)
+
+</div>
+
+### What I'm Looking For
+
+| | |
+|---|---|
+| 🔬 | **ML Research** — Carbon footprint prediction, XAI, data quality optimization |
+| 💼 | **Internships** — Data Science, ML Engineering, AI Systems |
+| 🤝 | **Collaborations** — Open-source ML projects, production systems |
+| 👨‍🏫 | **Mentorship** — Learning from experienced ML/AI engineers |
+
+---
 
 ---
 
