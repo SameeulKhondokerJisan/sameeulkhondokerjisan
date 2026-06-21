@@ -26,7 +26,7 @@ I'm obsessed with **data that tells stories, models that work in production, and
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
-<a href="https://sameeulkhondokerjisan.github.io">
+<a href="https://sameeulkhondokerjisan.github.io/my-portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=globe&logoColor=black" alt="Portfolio">
 </a>
 &nbsp;
@@ -410,7 +410,7 @@ I'm open to **collaborations, research partnerships, internships, and mentorship
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
-<a href="https://sameeulkhondokerjisan.github.io">
+<a href="https://sameeulkhondokerjisan.github.io/my-portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=globe&logoColor=black" alt="Portfolio">
 </a>
 &nbsp;
