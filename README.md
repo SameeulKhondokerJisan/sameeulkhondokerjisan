@@ -14,8 +14,12 @@ I'm obsessed with **data that tells stories, models that work in production, and
 
 <div align="center">
 
-<a href="mailto:mrkhondokar.prof@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a onclick="copyEmail()" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/Copy%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Copy Email" title="Click to copy email to clipboard">
+</a>
+&nbsp;
+<a href="https://sameeulkhondokerjisan.github.io/my-portfolio/#contact">
+  <img src="https://img.shields.io/badge/Contact%20Form-FF6B6B?style=for-the-badge&logo=messagebird&logoColor=white" alt="Contact Form">
 </a>
 &nbsp;
 <a href="https://wa.me/+8801767766680">
@@ -33,6 +37,17 @@ I'm obsessed with **data that tells stories, models that work in production, and
 <a href="https://github.com/SameeulKhondokerJisan">
   <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+
+<script>
+function copyEmail() {
+  const email = "mrkhondokar.prof@gmail.com";
+  navigator.clipboard.writeText(email).then(() => {
+    alert("Email copied to clipboard: " + email);
+  }).catch(() => {
+    prompt("Copy this email:", email);
+  });
+}
+</script>
 
 </div>
 
@@ -398,8 +413,12 @@ I'm open to **collaborations, research partnerships, internships, and mentorship
 
 <div align="center">
 
-<a href="mailto:mrkhondokar.prof@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a onclick="copyEmail()" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/Copy%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Copy Email" title="Click to copy email to clipboard">
+</a>
+&nbsp;
+<a href="https://sameeulkhondokerjisan.github.io/my-portfolio/#contact">
+  <img src="https://img.shields.io/badge/Contact%20Form-FF6B6B?style=for-the-badge&logo=messagebird&logoColor=white" alt="Contact Form">
 </a>
 &nbsp;
 <a href="https://wa.me/+8801767766680">
