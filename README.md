@@ -14,11 +14,25 @@ I'm obsessed with **data that tells stories, models that work in production, and
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrkhondokar.prof@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801767766680)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameeul-khondoker-jisan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logo=globe&logoColor=black)](https://sameeulkhondokerjisan.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/SameeulKhondokerJisan)
+<a href="mailto:mrkhondokar.prof@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+&nbsp;
+<a href="https://wa.me/+8801767766680">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sameeul-khondoker-jisan">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://sameeulkhondokerjisan.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=globe&logoColor=black" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://github.com/SameeulKhondokerJisan">
+  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
 
@@ -384,11 +398,25 @@ I'm open to **collaborations, research partnerships, internships, and mentorship
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrkhondokar.prof@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801767766680)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameeul-khondoker-jisan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=globe&logoColor=black)](https://sameeulkhondokerjisan.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SameeulKhondokerJisan)
+<a href="mailto:mrkhondokar.prof@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+&nbsp;
+<a href="https://wa.me/+8801767766680">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sameeul-khondoker-jisan">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://sameeulkhondokerjisan.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=globe&logoColor=black" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://github.com/SameeulKhondokerJisan">
+  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
 
