@@ -8,20 +8,32 @@
 
 ## 👋 About Me
 
-**Sameeul Khondoker Jisan** — Data Science-focused Software Engineer building the bridge from analytics to AI.
+**Sameeul Khondoker Jisan** — Data Science-focused Software Engineer building intelligent systems that solve real problems.
 
-I'm obsessed with **data that tells stories, models that work in production, and research that matters.** Currently a Data Science Intern @ **Codio AI Solution**, researching ML robustness, and publishing papers on predictive modeling and data quality.
+I'm obsessed with **data that tells stories, models that work in production, and research that matters.** Currently interning @ **Codio AI Solution**, researching ML robustness, publishing papers on carbon footprint prediction and data quality, and building the bridge from analytics to AI.
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrkhondokar.prof@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrkhondokar504/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logo=globe&logoColor=black)](https://jisan23051365.github.io/my-portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/mrkhondoker)
-[![Research Resume](https://img.shields.io/badge/Research_Resume-6C5CE7?style=flat-square&logo=datadog&logoColor=white)](#)
-[![Analytics Resume](https://img.shields.io/badge/Analytics_Resume-FF6B6B?style=flat-square&logo=datadog&logoColor=white)](#)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801767766680)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameeul-khondoker-jisan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logo=globe&logoColor=black)](https://sameeulkhondokerjisan.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/SameeulKhondokerJisan)
 
 </div>
+
+---
+
+## 📌 Quick Facts
+
+| | |
+|---|---|
+| **Current Role** | Data Science Intern @ Codio AI Solution |
+| **Education** | B.Sc. Software Engineering (Data Science major) — Daffodil International University |
+| **CGPA** | 3.55 / 4.00 |
+| **Certifications** | IBM Data Analyst & Data Science Professional (Coursera) |
+| **Language** | IELTS Academic 7.0 (L 7.5 \| R 7.0 \| W 7.0 \| S 6.5) |
+| **Location** | Dhaka, Bangladesh 🇧🇩 |
 
 ---
 
@@ -29,42 +41,44 @@ I'm obsessed with **data that tells stories, models that work in production, and
 
 > **Data over assumptions** • **Systems over scripts** • **Honesty over hype** • **Progress over perfection**
 
-I don't inflate credentials. I know SQL, Python, ML pipelines, and data architecture deeply. Everything else I'm learning or learning well.
+I don't inflate credentials. I know SQL, Python, ML pipelines, and statistical analysis deeply. Everything else I'm learning or learning well.
 
 ---
 
-## Current Work
+## 🎯 Current Work
 
 ```
 🔬 Codio AI Solution (May 2026–)
    └─ Building production ML pipelines & intelligent systems
+   └─ Developing automated ETL pipelines
    └─ Applying statistical analysis to real-world datasets
-   └─ Researching ML robustness & failure modes
+   └─ Generating actionable BI insights through dashboards & KPI monitoring
 
 📚 Research (In Progress)
    ├─ AI-Based Carbon Footprint Prediction
-   │  └─ Random Forest, XGBoost, MLP Regressor
-   │  └─ Behavioral & energy-consumption datasets
-   │  └─ SHAP-based Explainable AI (XAI) analysis
+   │  └─ Ensemble models: Random Forest, XGBoost, MLP Regressor
+   │  └─ Behavioral & energy-consumption data analysis
+   │  └─ SHAP-based Explainable AI (XAI) for environmental insights
    │
-   └─ Effect of Incomplete Data on ML Performance
-      └─ Quantifying accuracy degradation
-      └─ Missing data at 20%, 50%, 100% levels
-      └─ Statistical benchmarking across models
+   └─ Effect of Data Quality on ML System Performance
+      └─ Analyzing accuracy degradation under data missingness
+      └─ Statistical benchmarking across configurations
+      └─ Data validation & imputation strategies
 
-🎓 Background
-   ├─ BSc Software Engineering (Data Science major)
-   ├─ Daffodil International University (Jan 2023–)
-   ├─ CGPA: 3.55/4.00
-   ├─ IBM Certified (Data Analyst + Data Scientist)
-   └─ IELTS 7.0 (Academic)
+🏆 Research Interests
+   ├─ Machine Learning & Predictive Modelling
+   ├─ Explainable AI (XAI) & Model Interpretability
+   ├─ Data Quality & Missing Data in ML Systems
+   ├─ Environmental AI & Sustainability Analytics
+   ├─ Natural Language Processing (NLP)
+   ├─ AI-Powered Intelligent Systems
+   ├─ Business Analytics & BI
+   └─ Data Visualization & Decision Support Systems
 ```
 
 ---
 
-## Your Progression: 📊 → 🤖 → ✨
-
-Not a skill list. A **progression of capability and understanding.**
+## 📊 Your Progression: Data Analyst → Data Scientist → AI/ML Engineer
 
 ### 📊 **Stage 1: Data Analyst** — The Foundation
 **Timeline:** May 2024 – Present | **Mastery:** ✅ Solid
@@ -92,6 +106,8 @@ Most ML engineers skip this and build garbage models on garbage data. You can't 
 3. 80% of any data project is cleaning. Budget for it.
 4. Talk in numbers. Hunches are brainstorm fuel, not conclusions.
 
+**Tools mastered:** SQL, Excel, Pandas, NumPy, Power BI, Tableau, Matplotlib, Seaborn, Plotly
+
 This foundation is non-negotiable. Every feature engineering decision I make later traces back here.
 </details>
 
@@ -104,44 +120,64 @@ Moving from *understanding data* to *solving problems with models and publishing
 
 **Current work:**
 - 🔬 **Codio AI Solution** — Production ML pipelines, statistical analysis, BI research
-- 📚 **2 Research Papers** (in progress on ML robustness)
-- 💼 **Prior:** SaiKet Systems (Apr–May 2026, completed)
+- 📚 **2 Research Papers** (in progress on ML robustness & carbon prediction)
+- 💼 **Prior:** SaiKet Systems (Apr–May 2026) — processed 50K+ records, deployed 3 ML models
 
 **What I'm building:**
 - **End-to-end ML pipelines:** Data preprocessing → feature engineering → model training → inference
 - **Production systems:** Flask APIs, Docker containerization, REST services, Git workflows
-- **Models that handle reality:** Missing data, class imbalance, concept drift, out-of-distribution samples
-- **Research:** Statistical testing, ablation studies, explainability analysis (SHAP), cross-validation strategies
+- **Models that handle reality:** Missing data, class imbalance, concept drift, outliers
+- **Research:** Statistical testing, ablation studies, XAI analysis (SHAP), cross-validation
 - **Deployment:** Scalable inference, monitoring, debugging, performance tracking
 
 **Core technical stack:**
 
-| Category | Tools |
-|----------|-------|
+| Category | Tools & Frameworks |
+|----------|------------------|
 | **Modeling** | Scikit-learn, XGBoost, CatBoost, Random Forest, Logistic Regression, KNN, MLP, TensorFlow |
 | **Data Wrangling** | Pandas, NumPy, SQL (PostgreSQL, MySQL) |
-| **Evaluation** | Cross-validation, SHAP, confusion matrices, classification reports, regression metrics |
+| **Evaluation & XAI** | Cross-validation, SHAP, Confusion Matrix, Classification Reports, Precision-Recall, F1-Score, ROC-AUC, MSE, R² |
 | **Visualization** | Matplotlib, Seaborn, Plotly, Power BI, Tableau |
-| **Production** | Flask, Docker, REST APIs, Git, VS Code, Jupyter |
+| **Production** | Flask, Docker, REST APIs, Git/GitHub, VS Code, Jupyter |
 | **Databases** | PostgreSQL, MySQL, Supabase |
+| **Data Quality** | Data Validation, Missing Data Imputation, Outlier Detection, Data Profiling |
 
 **Projects shipped:**
 
 | Project | Stack | What It Does | Impact |
 |---------|-------|-------------|--------|
-| **Finzy** — AI Finance Dashboard | Next.js, PostgreSQL, Supabase, Gemini AI, Docker | Automated receipt OCR + intelligent expense categorization + analytics | Real-time financial insights, AI-driven budget recommendations |
-| **Heart Failure Prediction** | Scikit-learn, Pandas, Matplotlib | Logistic Regression on 12 clinical biomarkers | 84% classification accuracy, comprehensive EDA, confusion matrix analysis |
-| **Student Performance** | CatBoost, Scikit-learn, Flask, Docker | End-to-end predictive analytics pipeline | Identified key academic drivers, Dockerized REST API, reproducible workflows |
-| **Movie Recommendation** | Flask, Scikit-learn, NumPy, SciPy, TMDB API | Hybrid engine (content-based + collaborative filtering) | Live TMDB data integration, TF-IDF, cosine similarity, full-stack deployment |
+| **Finzy** — AI Finance Dashboard | Next.js, PostgreSQL, Supabase, Gemini AI, Docker | Real-time financial analytics, automated receipt OCR, AI-driven categorization | Budget tracking, spending insights, full-stack production system |
+| **Heart Failure Prediction** | Scikit-learn, Pandas, Matplotlib | Logistic Regression on 12 clinical biomarkers | **84% accuracy**, comprehensive EDA, confusion matrix analysis |
+| **Student Performance** | CatBoost, Scikit-learn, Flask, Docker | End-to-end predictive analytics pipeline | Key academic drivers identified, Dockerized REST API, reproducible |
+| **Movie Recommendation** | Flask, Scikit-learn, NumPy, SciPy, TMDB API | Hybrid engine (content-based + collaborative filtering) | TF-IDF, cosine similarity, live TMDB integration, deployed |
 | **Core Banking System** | Spring Boot, MySQL, REST API | Enterprise-level fintech backend | Secure transaction processing, Hibernate ORM, production-ready |
 
 **Work experience:**
 
-- **Codio AI Solution** (May 2026–) — Developing production ML pipelines, applying statistical analysis to real-world datasets, supporting BI research decisions
-- **SaiKet Systems** (Apr–May 2026) — Processed 50K+ records via automated Pandas/NumPy pipelines (~40% time reduction); deployed 3 ML models via REST API (~30% BI accuracy improvement)
-- **GoEdu** (Feb 2025–Feb 2026) — Produced 50+ educational videos (10K+ learners); applied data-informed content strategy (25% engagement increase)
-- **CDC-DIU** (Mar 2025–May 2026) — Organized job fairs & career development events; coordinated professional workshops
-- **Golden Harvest InfoTech** (Jan 2022–Dec 2022) — Managed 100K+ records at 99.8% accuracy; optimized data verification workflows (~20% efficiency gain)
+**Codio AI Solution** (May 2026–)
+- Building automated ETL pipelines and predictive analytics
+- Generating actionable BI insights through dashboard reporting and KPI monitoring
+- Developing production ML pipelines incorporating data preprocessing, feature selection, and model evaluation
+- Applying statistical analysis to extract insights from real-world datasets
+
+**SaiKet Systems** (Apr–May 2026)
+- Processed 50K+ records via automated Pandas/NumPy pipelines (~40% faster)
+- Validated data quality with imputation and outlier detection
+- Deployed 3 ML models via REST API (~30% accuracy improvement)
+- Evaluated using precision-recall and F1-score metrics
+
+**GoEdu** (Feb 2025–Feb 2026)
+- Produced 50+ educational videos reaching 10K+ learners
+- Applied content analytics to drive 25% engagement increase
+- Collaborated on multimedia development for digital learning
+
+**Career Development Center — DIU** (Mar 2025–May 2026)
+- Coordinated logistics for job fairs and career development events
+- Organized professional development workshops
+
+**Golden Harvest InfoTech** (Jan 2022–Dec 2022)
+- Managed 100K+ records at 99.8% accuracy
+- Optimized data verification workflows (~20% efficiency gain)
 
 **Research in progress:**
 
@@ -150,25 +186,25 @@ Moving from *understanding data* to *solving problems with models and publishing
 
 **Problem:** Can we predict individual carbon footprints from behavioral and energy-consumption data?
 
-**Approach:**
-- Ensemble models: Random Forest, XGBoost, MLP Regressor
-- Systematic preprocessing, feature engineering, cross-validation
-- SHAP-based Explainable AI (XAI) to identify influential predictors
-- Statistical performance benchmarking across configurations
+**Methodology:**
+- Designed & evaluated ensemble ML models (Random Forest, XGBoost, MLP Regressor)
+- Systematic data preprocessing, feature engineering, cross-validation
+- SHAP-based Explainable AI (XAI) to identify influential environmental & lifestyle predictors
+- Statistical performance benchmarking across model configurations
 
-**Key insight:** This isn't just ML—it's using data science to understand and potentially reduce environmental impact.
+**Key insight:** This isn't just ML—it's using data science to understand and reduce environmental impact.
 </details>
 
 <details>
-<summary><b>→ Effect of Incomplete Data on ML Performance</b></summary>
+<summary><b>→ Effect of Data Quality on ML Performance</b></summary>
 
-**Problem:** How much does accuracy degrade when we have missing data? At what threshold do models break?
+**Problem:** How much does accuracy degrade when we have incomplete data? At what threshold do models break?
 
-**Approach:**
-- Logistic Regression, Decision Trees, KNN on clean vs. missing data
-- Quantify accuracy loss at 20%, 50%, 100% missingness levels
-- Build the degradation curve
-- Compare imputation strategies
+**Methodology:**
+- Compare Logistic Regression, Decision Trees, KNN on clean vs. missing data
+- Quantify accuracy loss at various missingness levels (20%, 50%, etc.)
+- Evaluate missing data imputation & outlier detection strategies
+- Build degradation curves across model types
 
 **Key insight:** Understanding data quality limits is as important as optimizing features.
 </details>
@@ -187,9 +223,10 @@ Moving from *understanding data* to *solving problems with models and publishing
 
 **Skills being drilled:**
 1. Building reproducible, maintainable pipelines
-2. Handling edge cases (imbalance, drift, OOD data)
+2. Handling edge cases (imbalance, drift, OOD data, missing values)
 3. Communicating what your model *doesn't* know
 4. Writing code others can maintain and extend
+5. Statistical rigor in model evaluation
 
 **The hard truth:** Most ML engineers get stuck here. They can train models but can't ship systems. That's the focus now.
 </details>
@@ -208,7 +245,7 @@ The final form. Where data science meets system engineering meets research.
 - **Ownership:** Not "I trained a model." But "I shipped an AI system that solves a real problem."
 
 **Next concrete steps (2027):**
-- 📝 Publish 2 research papers (carbon prediction, incomplete data)
+- 📝 Publish 2 research papers (carbon prediction, incomplete data effects)
 - 🤖 Ship 1–2 LLM-powered production applications
 - 🎓 MSc in AI/ML (target entry 2027)
 - 🔬 Lead or contribute significantly to ML research project
@@ -239,43 +276,7 @@ You're not chasing buzzwords. You're building **systems people trust**:
 
 ---
 
-## Full Technical Skills
-
-**Data Science & Analytics:**
-- Data analysis, EDA, feature engineering, data cleaning, data preprocessing
-- SQL (complex queries, optimization, window functions)
-- Pandas, NumPy, statistical modeling
-- Predictive modeling, regression, classification
-
-**Machine Learning & AI:**
-- Scikit-learn, XGBoost, CatBoost, Random Forest
-- Logistic Regression, Decision Trees, KNN, MLP
-- TensorFlow, neural networks
-- NLP, Large Language Models (LLMs), Generative AI, Prompt Engineering
-- SHAP-based Explainable AI (XAI), model interpretability
-
-**Visualization & BI:**
-- Power BI, Tableau
-- Matplotlib, Seaborn, Plotly
-- Dashboard design, KPI monitoring, business intelligence
-
-**Engineering & Deployment:**
-- Python, SQL, R, Java, C/C++, JavaScript
-- Flask, Spring Boot, REST APIs
-- Docker, containerization
-- Git/GitHub, version control
-- Next.js, full-stack web development
-- Google Gemini API integration
-
-**Databases & Tools:**
-- PostgreSQL, MySQL, Supabase
-- Jupyter Notebook, Google Colab
-- VS Code, PyCharm
-- Google Cloud
-
----
-
-## Education
+## 🎓 Education
 
 **B.Sc. in Software Engineering** — Major: Data Science  
 *Daffodil International University* (Jan 2023–)  
@@ -292,7 +293,63 @@ You're not chasing buzzwords. You're building **systems people trust**:
 
 ---
 
-## Certifications & Language
+## 🛠️ Technical Skills
+
+**Data Science & Statistical Analysis:**
+- SQL, Pandas, NumPy, Statistical Analysis, EDA, Feature Engineering, Data Preprocessing
+- Predictive Modelling, Data Cleaning, Supervised Learning, Unsupervised Learning
+- Hypothesis Testing, Statistical Testing
+
+**Data Visualization & Business Intelligence:**
+- Power BI, Tableau, Matplotlib, Seaborn, Plotly
+- Business Analytics, Decision Support Systems
+
+**Machine Learning & AI:**
+- Scikit-learn, XGBoost, CatBoost, Random Forest
+- Logistic Regression, Decision Trees, K-Nearest Neighbors (KNN), MLP Regressor
+- Classification, Regression, NLP, Generative AI, Large Language Models (LLMs)
+- Prompt Engineering
+
+**Model Evaluation & Explainability:**
+- SHAP, Cross-Validation, Confusion Matrix, Classification Reports, Regression Metrics
+- Hyperparameter Tuning, Precision-Recall, F1-Score, ROC-AUC, MSE, R²
+
+**Data Quality & Validation:**
+- Data Quality Assurance, Data Validation, Missing Data Imputation
+- Outlier Detection, Data Profiling
+
+**Engineering & Deployment:**
+- Python, SQL, R, Java, C/C++, JavaScript
+- Flask, Spring Boot, REST API, Docker
+- Git/GitHub, Model Deployment, Production ML, Inference Pipeline, Model Monitoring
+- Next.js, Google Gemini API
+
+**Databases & Tools:**
+- PostgreSQL, MySQL, Supabase
+- Jupyter Notebook, Google Colab, VS Code, PyCharm
+- Google Cloud
+
+---
+
+## 🏆 Recognition & Awards
+
+| Award | Organization | Year |
+|-------|--------------|------|
+| **Outstanding Volunteer Contributions** | DIU Job Utsob (2024 & 2025) | 2024–2025 |
+| **Project Innovation Showcase** | UIU CSE Fest 2025 Project Show | 2025 |
+| **Top Campus Ambassador** | GoEdu Campus Ambassador Programme | 2025 |
+| **National Competition** | National Robotics Championship 2025 | 2025 |
+
+**Extracurricular Activities:**
+- Campus Ambassador, GoEdu
+- Campus Ambassador, Career Development Center (CDC-DIU)
+- Transport management, DIU Job Utsob 2024
+- Logistics coordination, DIU Job Utsob 2025
+- Organizing team member, DIU SEC Code Trap programming competition
+
+---
+
+## 📜 Certifications & Language
 
 - 🏆 **IBM Data Analyst Professional Certificate** — Coursera
 - 🏆 **IBM Data Science Professional Certificate** — Coursera
@@ -301,28 +358,21 @@ You're not chasing buzzwords. You're building **systems people trust**:
 
 ---
 
-## Research Interests
+## 🤝 References
 
-Based on current work and future directions:
+**Nusrat Jahan**  
+Associate Professor and Head  
+Department of Information Technology & Management  
+Faculty of Science and Information Technology  
+Daffodil International University  
+📱 +880 1847-334996 | 📧 [headitm@daffodilvarsity.edu.bd](mailto:headitm@daffodilvarsity.edu.bd)
 
-- **Machine Learning & Predictive Modelling** — Ensemble methods, neural networks, statistical learning
-- **Explainable AI (XAI) & Model Interpretability** — SHAP, LIME, attention visualization
-- **Data Quality & Missing Data in ML Systems** — Robustness, degradation curves, imputation
-- **Environmental AI & Sustainability Analytics** — Carbon footprint, energy efficiency, behavioral prediction
-- **Natural Language Processing** — Text analysis, sentiment, LLMs
-- **AI-Powered Intelligent Systems** — End-to-end ML products
-- **Business Analytics** — Data-driven decision making
-- **Data Visualization & Dashboarding** — Communicating insights
-- **Business Intelligence** — BI tools, reporting, KPIs
-
----
-
-## Recognition
-
-- **DIU Job Utsob 2024 & 2025** — Recognized for outstanding contributions in event logistics and career development
-- **DIU CSE Fest 2025** — Presented innovative software solutions in competitive showcase
-- **GoEdu Campus Ambassador Programme** — Awarded Top Campus Ambassador for leadership and community engagement
-- **National Robotics Championship 2025** — Competed at national level, demonstrating teamwork and innovation
+**Mr. Md. Shohel Arman**  
+Assistant Professor  
+Department of Software Engineering  
+Faculty of Science and Information Technology  
+Daffodil International University  
+📱 +880 1673-383289 | 📧 [arman.swe@diu.edu.bd](mailto:arman.swe@diu.edu.bd)
 
 ---
 
@@ -335,18 +385,10 @@ I'm open to **collaborations, research partnerships, internships, and mentorship
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrkhondokar.prof@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrkhondokar504/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=globe&logoColor=black)](https://jisan23051365.github.io/my-portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrkhondoker)
-
-</div>
-
-### Resume
-
-<div align="center">
-
-[![Research Resume](https://img.shields.io/badge/📄_Research_Resume-6C5CE7?style=for-the-badge)](https://github.com/SameeulKhondokerJisan)
-[![Analytics Resume](https://img.shields.io/badge/📊_Analytics_Resume-FF6B6B?style=for-the-badge)](https://github.com/SameeulKhondokerJisan)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801767766680)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameeul-khondoker-jisan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=globe&logoColor=black)](https://sameeulkhondokerjisan.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SameeulKhondokerJisan)
 
 </div>
 
@@ -358,8 +400,7 @@ I'm open to **collaborations, research partnerships, internships, and mentorship
 | 💼 | **Internships** — Data Science, ML Engineering, AI Systems |
 | 🤝 | **Collaborations** — Open-source ML projects, production systems |
 | 👨‍🏫 | **Mentorship** — Learning from experienced ML/AI engineers |
-
----
+| 📚 | **Graduate Study** — MSc AI/ML programs & research assistant roles |
 
 ---
 
@@ -369,5 +410,7 @@ I'm open to **collaborations, research partnerships, internships, and mentorship
 
 **Building intelligent systems that solve real problems.**  
 *Research-driven. Production-focused. Always learning.*
+
+**Last Updated:** June 2026
 
 </div>
