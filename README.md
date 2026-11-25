@@ -88,7 +88,7 @@ Six end-to-end case studies on public data. Each one has SQL, Python, statistics
   [AI Engineering](https://coursera.org/verify/professional-cert/HZVMOPEAHRS6), [Generative AI Engineering](https://coursera.org/verify/professional-cert/9FL2EW331MBX) and [Deep Learning with PyTorch, Keras and TensorFlow](https://coursera.org/verify/professional-cert/ADJH1ZK9SSUK) (May 2026) ·
   [Machine Learning](https://coursera.org/verify/professional-cert/34TJ036HZQMA) (Jul 2026)
 - [Complete 2026 Python Bootcamp](https://ude.my/UC-f0d7f8c6-6825-4c0c-990d-250c439679bb), Udemy (Mar 2026)
-- GenAI & Prompt Engineering · AI Workflows and Agents · Zero-Code App (Vibe Coding) · AI + Superpresentations, [Grameenphone Academy](https://www.grameenphone.academy/) (Jun 2026)
+- GenAI & Prompt Engineering · AI Workflows and Agents · Zero-Code App @ Vibe Coding · AI + Superpresentations, [Grameenphone Academy](https://www.grameenphone.academy/) (Jun 2026)
 - Google Sheets: Working with Formulas and Functions · Video Editing with Camtasia, GoEdu (Apr 2025)
 - Microsoft [Excel](https://10minuteschool.com/certificate/67863ee3542fd) and [PowerPoint](https://10minuteschool.com/certificate/67766165a0740) (Jan 2025), [Word](https://10minuteschool.com/certificate/63f48949a08d0) (Feb 2023), 10 Minute School
 - Data Entry and Freelancing, Perpetual IT World (May 2022)
